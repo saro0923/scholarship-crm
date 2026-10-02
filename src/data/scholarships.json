@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Post-Matric Scholarship BC EBC",
+    "state": "Bihar",
+    "provider": "Backward Classes & EBC Welfare Department, Govt. of Bihar",
+    "applicableClass": "Class 11-12",
+    "eligibility": "Students from BC / EBC categories studying in Class 11-12 at a recognised institution in Bihar. Family income limits apply as per scheme guidelines.",
+    "benefit": "Tuition fee reimbursement and maintenance allowance as per scheme norms",
+    "deadline": "2026-09-30",
+    "link": "https://pmsonline.bih.nic.in",
+    "status": "Published"
+  },
+  {
+    "id": 2,
+    "name": "Post-Matric Scholarship SC ST",
+    "state": "Bihar",
+    "provider": "SC & ST Welfare Department, Govt. of Bihar",
+    "applicableClass": "Class 11-12",
+    "eligibility": "SC / ST students studying in Class 11-12 at a recognised institution in Bihar. Family income limits apply as per scheme guidelines.",
+    "benefit": "Tuition fee reimbursement and maintenance allowance as per scheme norms",
+    "deadline": "2026-09-30",
+    "link": "https://pmsonline.bih.nic.in",
+    "status": "Draft"
+  },
+  {
+    "id": 3,
+    "name": "Mukhyamantri Balak Balika Protsahan Yojana",
+    "state": "Bihar",
+    "provider": "Education Department, Govt. of Bihar",
+    "applicableClass": "Class 9-10",
+    "eligibility": "Students of Bihar who pass the Class 10 board examination as per the division criteria in the scheme notification.",
+    "benefit": "One-time incentive amount as per scheme notification",
+    "deadline": "",
+    "link": "https://medhasoft.bih.nic.in",
+    "status": "Expired"
+  },
+  {
+    "id": 4,
+    "name": "Pre-Matric Scholarship for SC Students",
+    "state": "Haryana",
+    "provider": "Welfare of SC & BC Department, Govt. of Haryana",
+    "applicableClass": "Class 9-10",
+    "eligibility": "SC students of Haryana studying in Class 9-10 at a government or recognised school. Family income limits apply.",
+    "benefit": "Annual scholarship and ad-hoc grant as per scheme norms",
+    "deadline": "2026-12-31",
+    "link": "https://harchhatravratti.highereduhry.ac.in",
+    "status": "Published"
+  },
+  {
+    "id": 5,
+    "name": "Pre-Matric Scholarship for BC Students",
+    "state": "Haryana",
+    "provider": "Welfare of SC & BC Department, Govt. of Haryana",
+    "applicableClass": "Class 9-10",
+    "eligibility": "BC students of Haryana studying in Class 9-10 at a government or recognised school. Family income limits apply.",
+    "benefit": "Annual scholarship as per scheme norms",
+    "deadline": "2026-12-31",
+    "link": "https://harchhatravratti.highereduhry.ac.in",
+    "status": "Draft"
+  },
+  {
+    "id": 6,
+    "name": "Post-Matric Scholarship for SC Students",
+    "state": "Haryana",
+    "provider": "Welfare of SC & BC Department, Govt. of Haryana",
+    "applicableClass": "Class 11-12",
+    "eligibility": "SC students of Haryana studying in Class 11-12 or higher. Family income limits apply as per scheme guidelines.",
+    "benefit": "Fee reimbursement and maintenance allowance as per scheme norms",
+    "deadline": "2026-12-31",
+    "link": "https://harchhatravratti.highereduhry.ac.in",
+    "status": "Expired"
+  },
+  {
+    "id": 7,
+    "name": "Pre-Matric Scholarship for SC Students",
+    "state": "Jharkhand",
+    "provider": "ST, SC, Minority & Backward Class Welfare Department, Govt. of Jharkhand",
+    "applicableClass": "Class 1-10",
+    "eligibility": "SC students of Jharkhand studying in Class 1-10 at a government or recognised school.",
+    "benefit": "Annual scholarship as per scheme norms",
+    "deadline": "2026-11-20",
+    "link": "https://ekalyan.cgg.gov.in",
+    "status": "Published"
+  },
+  {
+    "id": 8,
+    "name": "Pre-Matric Scholarship for ST Students",
+    "state": "Jharkhand",
+    "provider": "ST, SC, Minority & Backward Class Welfare Department, Govt. of Jharkhand",
+    "applicableClass": "Class 1-10",
+    "eligibility": "ST students of Jharkhand studying in Class 1-10 at a government or recognised school.",
+    "benefit": "Annual scholarship as per scheme norms",
+    "deadline": "2026-11-20",
+    "link": "https://ekalyan.cgg.gov.in",
+    "status": "Draft"
+  },
+  {
+    "id": 9,
+    "name": "Pre-Matric Scholarship for BC OBC Students",
+    "state": "Jharkhand",
+    "provider": "ST, SC, Minority & Backward Class Welfare Department, Govt. of Jharkhand",
+    "applicableClass": "Class 1-10",
+    "eligibility": "BC / OBC students of Jharkhand studying in Class 1-10 at a government or recognised school.",
+    "benefit": "Annual scholarship as per scheme norms",
+    "deadline": "2026-11-20",
+    "link": "https://ekalyan.cgg.gov.in",
+    "status": "Expired"
+  }
+]
