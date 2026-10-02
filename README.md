@@ -4,7 +4,7 @@ A small frontend demo of a Scholarship Management CRM, built for the K12 Hunar F
 Employees can filter scholarships by state, change their status, add or edit records, and preview how a
 scholarship card would look to students.
 
-**Live demo:** _add your Vercel / Netlify / GitHub Pages link here_
+**Live demo:** https://scholarship-crm-olive.vercel.app
 
 ## Features
 
