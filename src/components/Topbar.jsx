@@ -1,7 +1,7 @@
 import { Plus, Moon, Sun } from 'lucide-react';
 
 const TITLES = {
-  dashboard: { title: 'Scholarship Dashboard', sub: 'Manage, publish and preview scholarships across states' },
+  dashboard: { title: 'Scholarship Dashboard', sub: '' },
   student: { title: 'Student View', sub: 'Published scholarships exactly as students will see them' },
 };
 
